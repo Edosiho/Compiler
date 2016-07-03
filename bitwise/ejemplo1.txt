@@ -1,0 +1,6 @@
+oct yy;
+oct zz;
+{
+yy = 8x62;
+zz = !yy*(8x34|8x07);
+}

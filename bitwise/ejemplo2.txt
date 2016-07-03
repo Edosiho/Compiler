@@ -1,0 +1,5 @@
+bin yy;
+hex zz;
+{
+yy = kek;
+}
